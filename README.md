@@ -4,9 +4,6 @@
 - 👨‍💻 Fullstack Developer
 - 🔭 I’m currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
 - 📕 Currently learning React and Nodejs ecosystem
-- 
-
-<br>
 
 ## GitHub Analytics
 
@@ -14,8 +11,6 @@
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=hatus&show_icons=true&theme=merko" alt="hatus's stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatus&layout=compact&theme=merko" alt="hatus's most languages"/>
 </p>
-
-<br>
 
 ## Social Links
 
