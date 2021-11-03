@@ -4,6 +4,7 @@
 - 👨‍💻 Fullstack Developer
 - 🔭 I'm currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
 - 📕 I'm currently learning React and Nodejs ecosystem
+- 🚀 Rocketseat Ignite Pro Student
 
 
 ## Connect with me
@@ -21,13 +22,13 @@
 ## Social Links
 
 <a href="https://linkedin.com/in/hatus" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/hatus" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://twitter.com/hatus" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=twitter" alt="twitter"/>  
 </a>
 
 ## GitHub Analytics
