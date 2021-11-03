@@ -22,7 +22,7 @@
 ## Social Links
 
 <a href="https://linkedin.com/in/hatus" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=linkedin&logoColor=007ACC" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=linkedin&logoColor=0072B1" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/hatus" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=instagram" alt="instagram"/>
