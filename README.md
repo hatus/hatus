@@ -6,7 +6,7 @@
 - 📕 Currently learning React and Nodejs ecosystem
 - 
 
-<br><br>
+<br>
 
 ## GitHub Analytics
 
@@ -15,7 +15,7 @@
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatus&layout=compact&theme=merko" alt="hatus's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## Social Links
 
