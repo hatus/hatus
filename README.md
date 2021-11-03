@@ -1,8 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hatus Níwman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatus&color=yellow" alt="Profile views" /> </p>
 
+- 👨‍💻 Fullstack Developer
+- 📕 I’m currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
+- Currently learning React and Nodejs ecosystem
 
-## ⚙️ &nbsp;GitHub Analytics
+<br><br>
+
+## GitHub Analytics
 
 <p align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=hatus&show_icons=true&theme=vision-friendly-dark" alt="hatus's stats"/>
