@@ -2,15 +2,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatus&color=brightgreen&style=plastic" alt="Profile views" /> </p>
 
 - 👨‍💻 Fullstack Developer
-- 🔭 I’m currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
-- 📕 Currently learning React and Nodejs ecosystem
+- 🔭 I'm currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
+- 📕 I'm currently learning React and Nodejs ecosystem
+- Connect with me: 
 
-## GitHub Analytics
+## Intereses
 
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=hatus&show_icons=true&theme=merko" alt="hatus's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatus&layout=compact&theme=merko" alt="hatus's most languages"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=plastic&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
+
 
 ## Social Links
 
@@ -23,3 +25,10 @@
 <a href="https://twitter.com/hatus" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
+
+## GitHub Analytics
+
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=hatus&show_icons=true&theme=merko" alt="hatus's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatus&layout=compact&theme=merko" alt="hatus's most languages"/>
+</p>
