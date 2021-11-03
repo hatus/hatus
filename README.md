@@ -4,7 +4,7 @@
 - 👨‍💻 Fullstack Developer
 - 🔭 I'm currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
 - 📕 I'm currently learning React and Nodejs ecosystem
-- Connect with me: 
+- Connect with me: [https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail](mailto:hatusn@gmail.com)
 
 ## Intereses
 
