@@ -6,9 +6,7 @@
 - 📕 I'm currently learning React and Nodejs ecosystem
 - 🚀 Rocketseat Ignite Pro Student
 
-
-## Connect with me
-<a href = "mailto:hatusn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=plastic&logo=gmail" target="_blank"></a>
+<br/>
 
 ## Intereses
 
@@ -18,6 +16,10 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
 
+<br/>
+
+## Connect with me
+<a href = "mailto:hatusn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=plastic&logo=gmail" target="_blank"></a>
 
 ## Social Links
 
