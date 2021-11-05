@@ -19,8 +19,6 @@
 ## Connect with me
 <a href = "mailto:hatusn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=plastic&logo=gmail" target="_blank"></a>
 
-## Social Links
-
 <a href="https://linkedin.com/in/hatus" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=linkedin&logoColor=0072B1" alt="linkedin"/>
 </a>
