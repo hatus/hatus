@@ -3,7 +3,7 @@
 
 - 👨‍💻 Fullstack Developer
 - 🔭 I'm currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
-- 📕 I'm currently learning and improving Nextjs, React Native, Nodejs, Typescript.
+- 📕 I'm currently learning and improving Reactjs, React Native and Nodejs.
 - 🚀 Rocketseat Ignite Pro Student
 
 ## Languages and Tools
