@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatus&color=brightgreen&style=plastic" alt="Profile views" /> </p>
 
 - 👨‍💻 Fullstack Developer
-- 🔭 I'm currently working as IT Analyst at [EBSERH / HUPI](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi)
 - 📕 I'm currently learning and improving Reactjs, React Native and Nodejs.
 
 ## Languages and Tools
